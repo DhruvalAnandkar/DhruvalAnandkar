@@ -1,7 +1,7 @@
 # 💫 About Me:
 🔭 I’m currently working on building a portfolio website and solving LeetCode challenges.<br>👯 I’m looking to collaborate on web development and coding projects.<br>🤝 I’m looking for help with optimizing algorithms and website scalability.<br>🌱 I’m currently learning advanced algorithms and front-end frameworks.<br>💬 Ask me about web development, coding challenges, and JavaScript.<br>⚡ Fun fact: I can spend hours debugging code but still find it oddly satisfying!
 
-## Portfolio : https://dhruvalanandkar.github.io/Portfolio-Website/portfolio/portfolio/index.html 
+## Portfolio : https://dhruval-portfolio-two.vercel.app/
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhruvalanandkar/) 
