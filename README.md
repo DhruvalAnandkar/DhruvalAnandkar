@@ -16,6 +16,8 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=dhruvalanandkar&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=DhruvalAnandkar&&show_icons=true&theme=dark)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=dhruvalanandkar&icon=2&color=12)](https://visitcount.itsvg.in)
 
