@@ -44,19 +44,13 @@ I am a Computer Science Honors senior (Class of Dec 2026) specializing in the en
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DhruvalAnandkar&theme=dark&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhruvalanandkar&theme=dark&hide_border=true" width="48%" />
-</div>
-<br/>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvalanandkar&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
-</div>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DhruvalAnandkar&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=DhruvalAnandkar&theme=dark&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DhruvalAnandkar&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 <br/>
 
-<div align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=dhruvalanandkar&icon=2&color=12" alt="Profile Views">
-  </a>
-</div>
+[![Profile Views](https://visitcount.itsvg.in/api?id=dhruvalanandkar&icon=2&color=12)](https://visitcount.itsvg.in)
