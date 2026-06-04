@@ -45,11 +45,14 @@ I am a Computer Science Honors senior (Class of Dec 2026) specializing in the en
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=DhruvalAnandkar&theme=dark&hide_border=true" alt="GitHub Streak">
+  <img src="https://github-readme-stats.vercel.app/api?username=DhruvalAnandkar&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DhruvalAnandkar&theme=dark&hide_border=true" alt="GitHub Streak">
 </p>
 
 <p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=dhruvalanandkar&icon=2&color=12" alt="Profile Views">
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhruvalAnandkar&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dhruvalanandkar&color=blueviolet&style=flat-square" alt="Profile Views">
 </p>
