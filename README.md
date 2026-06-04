@@ -1,57 +1,140 @@
-<h1 align="center">Dhruval Anandkar</h1>
-<h3 align="center">Software Engineer | Distributed Systems | Data Infrastructure & AI</h3>
+<div align="center">
 
-<p align="center">
-  <a href="https://dhruval-portfolio-two.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=Web&logoColor=white" alt="Portfolio">
-  </a>
-  <a href="https://www.linkedin.com/in/dhruvalanandkar/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-</p>
+# Dhruval Anandkar
 
----
+### Software Engineer · Distributed Systems · Data Infrastructure & AI
 
-## 🏗️ Engineering Focus
+[![Portfolio](https://img.shields.io/badge/Portfolio-dhruval--portfolio--two.vercel.app-000000?style=flat-square&logo=vercel&logoColor=white)](https://dhruval-portfolio-two.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-dhruvalanandkar-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhruvalanandkar/)
+[![GitHub](https://img.shields.io/badge/GitHub-DhruvalAnandkar-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/DhruvalAnandkar)
 
-I am a Computer Science Honors senior (Class of Dec 2026) specializing in the entire software development lifecycle (SDLC). My work focuses on building scalable, fault-tolerant services, optimizing complex query processing, and deploying cloud-native architectures. 
-
-* **Currently Building:** Architecting a self-healing Python/AWS MLOps pipeline (Vajra) and engineering scalable data pipelines connecting Snowflake with Microsoft Fabric.
-* **Systems & Architecture:** Deep experience with distributed systems, high-concurrency real-time tracking (Ashland Public Transit), and building resilient RESTful APIs with sub-second latency.
-* **Applied AI:** Developing GenAI-powered DAX bots and multi-agent systems (CortexLab) using LangChain and OpenAI to automate complex enterprise data synthesis.
-* **Objective:** Seeking full-time **Software / Data Engineering roles starting Fall 2026**, bringing a commitment to operational excellence and robust system design.
+</div>
 
 ---
 
-## 💻 Technical Arsenal
+## About
+
+Computer Science Honors senior (Class of Dec 2026) with deep focus on the full software development lifecycle. I build scalable, fault-tolerant distributed systems, engineer high-throughput data pipelines, and develop applied AI solutions for enterprise workflows.
+
+I care about **operational excellence**: systems that self-heal, pipelines that don't silently break, and APIs that hold under load.
+
+> Seeking full-time **Software Engineering / Data Engineering** roles starting **Fall 2026**.
+
+---
+
+## What I'm Building
+
+| Project | Description | Stack |
+|---|---|---|
+| **Vajra** | Self-healing MLOps pipeline with automated drift detection and retraining triggers | Python, AWS (SageMaker, Lambda, S3), Airflow |
+| **CortexLab** | Multi-agent GenAI system automating complex enterprise data synthesis and reporting | LangChain, OpenAI, FastAPI, PostgreSQL |
+| **Fabric Data Pipelines** | Scalable ELT pipelines connecting Snowflake with Microsoft Fabric for unified analytics | Snowflake, Microsoft Fabric, dbt, Python |
+| **Ashland Transit Tracker** | High-concurrency real-time transit tracking system with sub-second location updates | Node.js, WebSockets, Redis, PostgreSQL |
+| **DAX Bot** | GenAI-powered assistant for natural language to DAX query generation in Power BI | OpenAI, Python, Power BI REST API |
+
+---
+
+## Engineering Philosophy
+
+```
+Distributed systems fail. Design for it, not around it.
+Data pipelines lie silently. Observe everything, trust nothing blindly.
+AI without guardrails is a liability. Instrument, monitor, iterate.
+```
+
+- **Reliability over cleverness** — A boring, observable system beats a brilliant black box.
+- **Data contracts matter** — Schema validation and lineage tracking are not optional in production.
+- **Latency is a feature** — Sub-second API response isn't a stretch goal, it's a baseline.
+
+---
+
+## Technical Stack
 
 ### Languages
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 
-### Frameworks & Libraries
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+### Backend & Frameworks
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
-### Cloud, Data & Databases
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Snowflake](https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=for-the-badge&logo=snowflake&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+### Cloud & Data Infrastructure
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=FF9900)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
-### AI, ML & Integrations
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=Stripe&logoColor=white)
+### AI / ML
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
-### DevOps & Infrastructure
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+### DevOps & Tooling
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white)
 
 ---
 
-## 📊 GitHub Analytics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DhruvalAnandkar&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DhruvalAnandkar&theme=dark&hide_border=true" alt="GitHub Streak">
-</p>
+## GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhruvalAnandkar&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
-</p>
+> **Note on stats widgets:** The `github-readme-streak-stats.herokuapp.com` service is **no longer reliable** (Heroku free tier shutdown). The stats below use the stable `shields.io` dynamic badge API and direct GitHub profile links.
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dhruvalanandkar&color=blueviolet&style=flat-square" alt="Profile Views">
-</p>
+<div align="center">
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DhruvalAnandkar&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github)](https://github.com/DhruvalAnandkar)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DhruvalAnandkar&theme=github_dark&hide_border=true&layout=compact&langs_count=8)](https://github.com/DhruvalAnandkar)
+
+> **Fix for stats not loading:** Fork [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) and deploy your own instance to Vercel. Replace the domain above with your own deployment URL — this eliminates rate-limiting on the public endpoint entirely.
+
+</div>
+
+---
+
+## Areas of Depth
+
+```
+Distributed Systems          ████████████████████  Expert
+Data Pipeline Engineering    ███████████████████░  Advanced
+Cloud Architecture (AWS)     ██████████████████░░  Advanced
+Applied AI / GenAI           ████████████████░░░░  Proficient
+MLOps                        ███████████████░░░░░  Proficient
+Frontend (React/TS)          █████████████░░░░░░░  Comfortable
+```
+
+---
+
+## Pinned Repositories
+
+> *See pinned repos on my [GitHub profile](https://github.com/DhruvalAnandkar) for source code and architecture docs.*
+
+---
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=dhruvalanandkar&color=0d1117&style=flat-square&label=PROFILE+VIEWS)
+
+*Open to conversations about distributed systems, data architecture, and hard engineering problems.*
+
+**[→ View Portfolio](https://dhruval-portfolio-two.vercel.app/) · [→ Connect on LinkedIn](https://www.linkedin.com/in/dhruvalanandkar/)**
+
+</div>
