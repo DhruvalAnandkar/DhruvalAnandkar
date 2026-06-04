@@ -96,17 +96,17 @@ AI without guardrails is a liability. Instrument, monitor, iterate.
 
 ## GitHub Stats
 
-> **Note on stats widgets:** The `github-readme-streak-stats.herokuapp.com` service is **no longer reliable** (Heroku free tier shutdown). The stats below use the stable `shields.io` dynamic badge API and direct GitHub profile links.
-
 <div align="center">
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DhruvalAnandkar&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github)](https://github.com/DhruvalAnandkar)
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DhruvalAnandkar&theme=github-dark-blue&hide_border=true)](https://streak-stats.demolab.com)
+
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DhruvalAnandkar&theme=github_dark&hide_border=true&layout=compact&langs_count=8)](https://github.com/DhruvalAnandkar)
 
-> **Fix for stats not loading:** Fork [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) and deploy your own instance to Vercel. Replace the domain above with your own deployment URL — this eliminates rate-limiting on the public endpoint entirely.
-
 </div>
+
+> **If stats cards show errors:** The public `github-readme-stats.vercel.app` endpoint is rate-limited and may fail intermittently. For a permanently reliable setup, deploy your own free instance: [one-click deploy to Vercel →](https://vercel.com/new/clone?repository-url=https://github.com/anuraghazra/github-readme-stats&env=PAT_1) then swap in your own domain. The streak card above uses `streak-stats.demolab.com`, the official maintained endpoint (the old `herokuapp.com` URL is permanently dead).
 
 ---
 
