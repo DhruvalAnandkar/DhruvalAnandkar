@@ -1,16 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=120&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4158D0,50:C850C0,100:FFCC70&height=120&section=header&fontColor=fff" width="100%"/>
 
 # Dhruval Anandkar
 
 **Software Engineer · Distributed Systems · Data Infrastructure · Applied AI**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-dhruval--portfolio--two.vercel.app-000000?style=flat-square&logo=vercel&logoColor=white)](https://dhruval-portfolio-two.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-dhruval--portfolio--two.vercel.app-4158D0?style=flat-square&logo=vercel&logoColor=white)](https://dhruval-portfolio-two.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-dhruvalanandkar-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhruvalanandkar/)
-[![GitHub](https://img.shields.io/badge/GitHub-DhruvalAnandkar-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/DhruvalAnandkar)
+[![GitHub](https://img.shields.io/badge/GitHub-DhruvalAnandkar-6e40c9?style=flat-square&logo=github&logoColor=white)](https://github.com/DhruvalAnandkar)
 [![Email](https://img.shields.io/badge/Email-dhruvalabroad@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:dhruvalabroad@gmail.com)
-[![Views](https://komarev.com/ghpvc/?username=dhruvalanandkar&color=0d1117&style=flat-square&label=PROFILE+VIEWS)](https://github.com/DhruvalAnandkar)
+[![Views](https://komarev.com/ghpvc/?username=dhruvalanandkar&color=C850C0&style=flat-square&label=PROFILE+VIEWS)](https://github.com/DhruvalAnandkar)
 
 </div>
 
@@ -69,7 +69,7 @@ Currently working as a **Business Intelligence Intern** and **Research Team Lead
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=333)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
@@ -81,20 +81,20 @@ Currently working as a **Business Intelligence Intern** and **Research Team Lead
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Express](https://img.shields.io/badge/Express-404d59?style=flat-square&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 
 ### Cloud & Data Infrastructure
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=FF9900)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=232F3E)
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
 ![Microsoft Fabric](https://img.shields.io/badge/Microsoft_Fabric-0078D4?style=flat-square&logo=microsoft&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=333)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
 
@@ -106,13 +106,13 @@ Currently working as a **Business Intelligence Intern** and **Research Team Lead
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=333)
 
 ### DevOps & Tooling
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-6e40c9?style=flat-square&logo=github&logoColor=white)
 ![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=flat-square&logo=stripe&logoColor=white)
@@ -123,15 +123,15 @@ Currently working as a **Business Intelligence Intern** and **Research Team Lead
 
 <div align="center">
 
-<img src="https://github-readme-stats-lilac-eight-49.vercel.app/api?username=DhruvalAnandkar&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&cache_seconds=1800" alt="GitHub Stats"/>
+<img src="https://github-readme-stats-lilac-eight-49.vercel.app/api?username=DhruvalAnandkar&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&cache_seconds=1800&bg_color=00000000" alt="GitHub Stats"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=DhruvalAnandkar&theme=github-dark-blue&hide_border=true" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com/?user=DhruvalAnandkar&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub Streak"/>
 
 <br/>
 
-<img src="https://github-readme-stats-lilac-eight-49.vercel.app/api/top-langs/?username=DhruvalAnandkar&theme=github_dark&hide_border=true&layout=compact&langs_count=8&include_all_commits=true&count_private=true&cache_seconds=1800" alt="Top Languages"/>
+<img src="https://github-readme-stats-lilac-eight-49.vercel.app/api/top-langs/?username=DhruvalAnandkar&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&include_all_commits=true&count_private=true&cache_seconds=1800&bg_color=00000000" alt="Top Languages"/>
 
 </div>
 
@@ -161,6 +161,6 @@ Currently working as a **Business Intelligence Intern** and **Research Team Lead
 
 **[→ Portfolio](https://dhruval-portfolio-two.vercel.app/) · [→ LinkedIn](https://www.linkedin.com/in/dhruvalanandkar/) · [→ Email](mailto:dhruvalabroad@gmail.com)**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=80&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFCC70,50:C850C0,100:4158D0&height=80&section=footer" width="100%"/>
 
 </div>
