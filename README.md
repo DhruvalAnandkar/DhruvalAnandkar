@@ -43,7 +43,6 @@ I am a Computer Science Honors senior (Class of Dec 2026) specializing in the en
 ---
 
 ## 📊 GitHub Analytics
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DhruvalAnandkar&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DhruvalAnandkar&theme=dark&hide_border=true" alt="GitHub Streak">
