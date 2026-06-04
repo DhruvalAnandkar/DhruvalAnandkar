@@ -1,6 +1,7 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4158D0,50:C850C0,100:FFCC70&height=120&section=header&fontColor=fff" width="100%"/>
+
 # Dhruval Anandkar
 
 **Software Engineer · Distributed Systems · Data Infrastructure · Applied AI**
