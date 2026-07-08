@@ -127,7 +127,7 @@ Currently working as a **Business Intelligence Intern** and **Research Team Lead
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=DhruvalAnandkar&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats-ten-phi.vercel.app/?user=DhruvalAnandkar&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub Streak"/>
 
 <br/>
 
