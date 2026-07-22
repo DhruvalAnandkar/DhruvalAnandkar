@@ -6,7 +6,7 @@
 
 **Software Engineer · Distributed Systems · Data Infrastructure · Applied AI**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-dhruval--portfolio--two.vercel.app-4158D0?style=flat-square&logo=vercel&logoColor=white)](https://dhruvalanandkar.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-dhruvalanandkar.com-4158D0?style=flat-square&logo=vercel&logoColor=white)](https://dhruvalanandkar.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-dhruvalanandkar-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhruvalanandkar/)
 [![GitHub](https://img.shields.io/badge/GitHub-DhruvalAnandkar-6e40c9?style=flat-square&logo=github&logoColor=white)](https://github.com/DhruvalAnandkar)
 [![Email](https://img.shields.io/badge/Email-dhruvalabroad@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:dhruvalabroad@gmail.com)
