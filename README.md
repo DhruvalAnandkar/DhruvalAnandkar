@@ -4,7 +4,7 @@
 
 # Dhruval Anandkar
 
-**Software Engineer · Distributed Systems · Data Infrastructure · Applied AI**
+**Software Engineer · MLOps · Distributed Systems · Data Infrastructure · Applied AI**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-dhruvalanandkar.com-4158D0?style=flat-square&logo=vercel&logoColor=white)](https://dhruvalanandkar.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-dhruvalanandkar-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhruvalanandkar/)
