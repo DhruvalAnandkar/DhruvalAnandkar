@@ -18,9 +18,9 @@
 
 ## About
 
-CS Honors senior at **Ashland University** (GPA 3.8 · Class of Dec 2026) with a prior 4.0 in Computer Engineering. I specialize in the full software development lifecycle — distributed systems, cloud-native architectures, high-throughput data pipelines, and applied GenAI for enterprise workflows.
+CS Honors senior at **Ashland University** (GPA 3.7 · Class of Dec 2026) with a prior 4.0 in Computer Engineering. I specialize in the full software development lifecycle — distributed systems, cloud-native architectures, high-throughput data pipelines, and applied GenAI for enterprise workflows.
 
-Currently working as a **Business Intelligence Intern** and **Research Team Lead** at Ashland University, building production systems used by real users. Seeking full-time **Software Engineering / Data Engineering** roles starting **Fall 2026**.
+Currently working as a **Business Intelligence Intern** and **Research Team Lead** at Ashland University, building production systems used by real users. Seeking full-time **Software Engineer (SWE), Backend Engineer, Data/Business Analyst, or AI-ML Engineer** roles starting **Fall 2026**.
 
 > *I build systems that self-heal, pipelines that don't silently break, and APIs that hold under load.*
 
@@ -39,12 +39,12 @@ Currently working as a **Business Intelligence Intern** and **Research Team Lead
 - Implemented CI/CD principles in an Agile/SCRUM framework with rigorous code review standards
 
 **Development Intern** · Smith Structure India Pvt. Ltd. · *Dec 2022 – Jan 2023*
-- Built PHP/MySQL internal web apps automating manual workflows, **cutting deployment times by 30%**
-- Monitored and resolved 50+ backend production issues — **98% resolution rate**
+- Provided dedicated IT sector support, assisting the technical operations team with internal technology workflows and system troubleshooting
+- Maintained technical documentation and supported the daily management of internal IT infrastructure
 
 **Systems Development Intern** · GSECL (Gujarat State Electricity Corporation) · *Apr 2022 – May 2022*
-- Built IT automation apps in PHP and Java, eliminating bottlenecks and saving **~10 hours/week** of manual data entry
-- Optimized legacy MySQL query processing, **improving system responsiveness by 25%**
+- Retrieved data from enterprise Oracle databases and documented IT infrastructure
+- Analyzed operational data using Advanced Excel to support the technical operations team
 
 ---
 
@@ -52,8 +52,8 @@ Currently working as a **Business Intelligence Intern** and **Research Team Lead
 
 | Project | Description | Stack |
 |---|---|---|
-| **Ashland Public Transit** | Fault-tolerant real-time GPS fleet tracker with high-concurrency WebSocket architecture | React · Node.js · WebSockets · Redis · PostgreSQL |
-| **Vajra (MLOps Orchestrator)** | Self-healing Python/AWS pipeline with automated drift detection and distributed high availability | Python · AWS · SageMaker · Airflow |
+| **Ashland Public Transit** | Fault-tolerant real-time GPS fleet tracker with high-concurrency WebSocket architecture | React · Node.js · Express · WebSockets · PostgreSQL |
+| **Vajra (MLOps Orchestrator)** | Self-healing Python/AWS pipeline with automated drift detection and distributed high availability | FastAPI · Redpanda (Kafka) · TimescaleDB · XGBoost |
 | **CortexLab** | Multi-agent GenAI assistant automating complex enterprise data synthesis and LLM query optimization | LangChain · OpenAI · FastAPI · PostgreSQL |
 | **JobGenie AI** | GPT-4 job match SaaS with resume parsing, full-stack deployed with payments | LangChain · GPT-4 · Stripe · React · Node.js |
 | **AgriScience** | End-to-end ETL pipeline for crop analytics and prediction using IoT sensor data | Python · SQL · IoT · scikit-learn |
@@ -138,7 +138,7 @@ Currently working as a **Business Intelligence Intern** and **Research Team Lead
 ---
 
 ## Certifications & Honors
-
+- 📜Containers & Kubernetes Essentials · CognitiveClass.ai · Jun 2026
 - 🏆 **UN SDG Innovation & Entrepreneurship Challenge** · Ashland University · Sep 2025
 - 📜 **Voice Assistant with OpenAI & IBM Watson** · CognitiveClass.ai · Oct 2024
 - 📜 **Data Science with Python** · SoloLearn · Jun 2021
@@ -147,7 +147,7 @@ Currently working as a **Business Intelligence Intern** and **Research Team Lead
 
 ## Education
 
-**B.S. Computer Science, Honors Program** · Ashland University, Ohio · *Expected Dec 2026* · GPA 3.8/4.0
+**B.S. Computer Science, Honors Program** · Ashland University, Ohio · *Expected Dec 2026* · GPA 3.7/4.0
 
 **A.S. Computer Engineering** · Parul University, Gujarat, India · *May 2023* · GPA 4.0/4.0
 
