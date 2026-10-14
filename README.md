@@ -10,7 +10,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-dhruvalanandkar-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhruvalanandkar/)
 [![GitHub](https://img.shields.io/badge/GitHub-DhruvalAnandkar-6e40c9?style=flat-square&logo=github&logoColor=white)](https://github.com/DhruvalAnandkar)
 [![Email](https://img.shields.io/badge/Email-dhruvalabroad@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:dhruvalabroad@gmail.com)
-[![Views](https://komarev.com/ghpvc/?username=dhruvalanandkar&color=C850C0&style=flat-square&label=PROFILE+VIEWS)](https://github.com/DhruvalAnandkar)
+[![Views](https://visitor-badge.laobi.icu/badge?page_id=DhruvalAnandkar.DhruvalAnandkar&left_color=gray&right_color=%23C850C0&left_text=PROFILE%20VIEWS)](https://github.com/DhruvalAnandkar)
 
 </div>
 
